@@ -1,0 +1,16 @@
+{
+  "name": "Min Økonomi & Arbejde",
+  "short_name": "Økonomi & Arbejde",
+  "description": "Personlig økonomi og arbejdsregistrering til Windows og Samsung tablet.",
+  "lang": "da",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#081018",
+  "theme_color": "#0a1118",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
